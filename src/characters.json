@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ariel",
+    "id": 0,
+    "picture": "https://lumiere-a.akamaihd.net/v1/images/character_princess_ariel_22803a96.jpeg",
+    "clicked": false
+  },
+  {
+    "name": "Ariel",
+    "id": 1,
+    "picture": "https://i.pinimg.com/originals/3c/04/20/3c0420a34e0d5a9bcdb817f042b9b984.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Jasmine",
+    "id": 2,
+    "picture": "http://images6.fanpop.com/image/photos/39000000/Aladdin-Princess-Jasmine-disney-princess-39040302-300-300.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Jasmine 2",
+    "id": 3,
+    "picture": "https://i.pinimg.com/originals/8a/47/34/8a4734116babdd24cae9abea9ad2ece9.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Elsa",
+    "id": 4,
+    "picture": "https://lumiere-a.akamaihd.net/v1/images/6d7454cea6644379adc7e529c5790a28078a2823.jpeg?region=0%2C0%2C450%2C450&optimize=true",
+    "clicked": false
+  },
+  {
+    "name": "Rapunzel",
+    "id": 5,
+    "picture": "https://vignette.wikia.nocookie.net/princessdisney/images/c/cb/Rapunzel.JPG/revision/latest?cb=20130427062235",
+    "clicked": false
+  },
+  {
+    "name": "Rapunzel 2",
+    "id": 6,
+    "picture": "https://lumiere-a.akamaihd.net/v1/images/character_princess_rapunzel_314b7a09.jpeg?region=0%2C0%2C450%2C450",
+    "clicked": false
+  },
+  {
+    "name": "Moana",
+    "id": 7,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUEVpV2L6G2E4_VZTrivqQJcUFqAhHnxcQWio8oeTo1LoDnoIrnw",
+    "clicked": false
+  },
+  {
+    "name": "Moana 2",
+    "id": 8,
+    "picture": "https://i.pinimg.com/236x/5e/17/8a/5e178a193ea3fe26066e94babd385d55--moana-disney-disney-nerd.jpg?b=t",
+    "clicked": false
+  },
+  {
+    "name": "Belle",
+    "id": 9,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi-LhaouBIIhwGy841r82he-zThlylCSo-MbWlpXZz0vnTb8y5",
+    "clicked": false
+  },
+  {
+    "name": "Belle 2",
+    "id": 10,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ70vCf_2Y-XA2iRsSJidWTp5QO8bGU2IVEqMXuxEc81bJdopk-nA",
+    "clicked": false
+  },
+  {
+    "name": "Snow White",
+    "id": 11,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyv3NpoPYyfrK4NtcDvFE_sPO9ZOSDQ_go5qwEheXch0-kqUqr",
+    "clicked": false
+  }
+]
